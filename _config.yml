@@ -1,17 +1,17 @@
 testing: false
 
 # Site settings
-title: "Graduate Algebra, Second Semester"
-page_title: "Graduate Algebra 2"
-course_title: "UPenn MATH 6030, Spring 2025."
-description: ""
+title: "Linear Algebra (Spring 2026)"
+page_title: "MATH 3120 — Linear Algebra"
+course_title: "UPenn MATH 3120, Spring 2026."
+description: "Course website"
 instructor: "Danny Krashen"
-email: "daniel.krashen+alg2@gmail.com"
-office: "DRL 3E6"
-office_hours: "Fri 10-11am"
-lecture_schedule: "Mon/Wed 10:15-11:45 CHEM109"
+email: "daniel.krashen+lalg@gmail.com"
+office: "DRL 3E1A"
+office_hours: "TBD"
+lecture_schedule: "Mon/Wed 1:45-3:15 LRSM AUD"
 
-baseurl: "/alg2s25"
+baseurl: "/lalg-spring26"
 url: "http://dkrashen.github.io"
 
 # url: "localhost:4000"
