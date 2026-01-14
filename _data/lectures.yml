@@ -1,6 +1,3 @@
-#
-# MATH 3120 (Spring 2026) lecture entries will be listed here.
-# Example:
-# - title: "Lecture 1 (date)"
-#   description: "Topic overview"
-#   filename: "lecture1.pdf"
+- title: "Lecture 1 (January 14, 2026)"
+  description: "Introductions"
+  filename: "lecture1.pdf"
