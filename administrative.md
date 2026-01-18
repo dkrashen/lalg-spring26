@@ -43,14 +43,15 @@ We will primarily cover the following material from Nicholson (2023):
 <i>(Sections not listed here may be used as supplementary reference or optional reading at the instructor’s discretion.)</i>
 
 ### Provisional Exam Schedule
-We will have <b>three in-class exams</b>. Each exam will be <b>preceded by a review day</b> in class.
+We will have <b>three in-class exams</b>. Each exam will be <b>preceded by
+a review day</b> in class. The provisional dates are as follows:
 
- - <b>Exam 1:</b> Early February<br />
-   Linear systems; matrix algebra; early linear transformations
- - <b>Exam 2:</b> Late March (after Spring Break)<br />
-   Determinants; eigenvalues; diagonalization; vector spaces basics
- - <b>Exam 3:</b> Final week of classes<br />
-   Orthogonality; least squares; SVD/PCA; synthesis
+ - <b>Exam 1:</b> Monday, February 9<br />
+   Linear systems; matrix algebra; linear transformations
+ - <b>Exam 2:</b> Monday, March 23<br />
+   Determinants; eigenvalues; diagonalization; vector spaces
+ - <b>Exam 3:</b> Monday, April 27<br />
+   Orthogonality; least squares; SVD/PCA
 
 Exact dates will be confirmed once the official Penn academic calendar is finalized.
 
