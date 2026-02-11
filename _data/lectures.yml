@@ -13,3 +13,6 @@
 - title: "Lecture 5 (February 4, 2026)"
   description: "Linear transformations and matrices"
   filename: "lecture5.pdf"
+- title: "Lecture 6 (February 9, 2026)"
+  description: "Matrix multiplication is composition, intro to matrix factorization"
+  filename: "lecture6.pdf"
