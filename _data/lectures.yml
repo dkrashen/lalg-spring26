@@ -16,3 +16,6 @@
 - title: "Lecture 6 (February 9, 2026)"
   description: "Matrix multiplication is composition, intro to matrix factorization"
   filename: "lecture6.pdf"
+- title: "Lecture 7 (February 11, 2026)"
+  description: "Matrix factorization, subspaces, image, rank, nullity"
+  filename: "lecture7.pdf"
