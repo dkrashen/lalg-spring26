@@ -19,3 +19,6 @@
 - title: "Lecture 7 (February 11, 2026)"
   description: "Matrix factorization, subspaces, image, rank, nullity"
   filename: "lecture7.pdf"
+- title: "Lecture 8 (February 16, 2026)"
+  description: "Spanning and independent sets, geometry and projections"
+  filename: "lecture8.pdf"
