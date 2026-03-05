@@ -46,9 +46,9 @@ We will primarily cover the following material from Nicholson (2023):
 We will have <b>three in-class exams</b>. Each exam will be <b>preceded by
 a review day</b> in class. The provisional dates are as follows:
 
- - <b>Exam 1:</b> Monday, February 23<br />
+ - <b>Exam 1:</b> Monday, February <del>23</del> 25<br />
    Linear systems; matrix algebra; linear transformations
- - <b>Exam 2:</b> Monday, March 23<br />
+ - <b>Exam 2:</b> Monday, March <del>23</del> 30<br />
    Determinants; eigenvalues; diagonalization; vector spaces
  - <b>Exam 3:</b> Monday, April 27<br />
    Orthogonality; least squares; SVD/PCA
