@@ -31,3 +31,10 @@
 - title: "Lecture 10 (March 4, 2026)"
   description: "Determinants, transposes"
   filename: "lecture10.pdf"
+- title: "Lecture 11 (March 16, 2026)"
+  description: "Determinants, abstract vector spaces"
+  filename: "lecture11.pdf"
+- title: "Lecture 12 (March 18, 2026)"
+  description: "Linear transformations between abstract vector spaces,
+  isomorphisms, inner products"
+  filename: "lecture12.pdf"
