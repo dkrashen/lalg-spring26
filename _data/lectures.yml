@@ -38,3 +38,6 @@
   description: "Linear transformations between abstract vector spaces,
   isomorphisms, inner products"
   filename: "lecture12.pdf"
+- title: "Lecture 13 (March 23, 2026)"
+  description: "Least squares approximations and applications"
+  filename: "lecture13.pdf"
