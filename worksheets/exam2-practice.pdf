@@ -1,0 +1,115 @@
+\documentclass[addpoints]{exam}
+\usepackage{lipsum,lastpage}
+\usepackage{amsmath,amssymb}
+\usepackage{fullpage}
+\usepackage{enumerate,graphicx}
+
+\makeatletter
+\renewcommand{\@oddfoot}{\hfil \thepage/\pageref{LastPage} \hfil}
+\makeatother
+
+\date{}
+\begin{document}
+
+\begin{center}
+{\Large{\centering{MATH 3120, Linear Algebra, Spring 2026, Exam 2}}}\\
+\end{center}
+\begin{center}
+{\large{\centering{Review Sheet (corrected!)}}}
+\end{center}
+\begin{questions}
+
+\question
+Let $A$ be an $n \times n$ matrix, and suppose $x_1, \ldots, x_m$ is a basis for the space of solutions to $Ax = 0$. For a vector $v \in \mathbb R^n$ how would you find a vector $v'$ which is a solution to $Ax = 0$, and as close as possible to $v$?
+
+\vfill
+
+\question
+Let $A$ be a matrix whose columns are the vectors $w_1, \ldots, w_n$ and whose rows are the vectors $v_1, \ldots, v_m$. Let $W$ be the span of the vectors $w_1,\ldots, w_n$ and let $U$ be the span of the vectors $v_1, \ldots, v_m$. Let $T$ is the linear transformation corresponding to $A$.
+\vfill
+\begin{parts}
+\part
+Show that the image of $T$ is $W$
+\vfill
+\part
+Show that the kernel of $T$ is $U^\perp$, the set of vectors perpendicular to each vector in $U$. 
+\end{parts}
+
+\vfill
+\newpage
+
+\question
+Suppose you are given vectors $v_1, \ldots, v_m \in \mathbb R^n$ and a vector $a \in \mathbb R^n$.
+
+Describe how you would find a matrix $A$ and a vector $b$ such that the solutions to $Ax = b$ exactly consists of those vectors $v \in \mathbb R^n$ such that the vector $v + a$ is perpendicular to each $v_i$.
+
+\vfill
+\question
+Consider the matrix
+\[\begin{bmatrix}
+2 & 1 & 0 & 3 \\
+1 & 0 & 1 & 2 \\
+0 & 4 & 2 & 1 \\
+1 & 0 & 0 & 0 \\
+\end{bmatrix}\]
+Decide whether or not this matrix is invertible (hint: use the determinant!)
+
+
+\vfill
+\question (this was rewritten!)
+Let $A$ be an $m \times n$ matrix, and suppose $x \in \mathbb R^n$ is a vector.
+
+\begin{parts}
+\part(stupid trick question)
+If the equation $Ax = b$ is inconsistent, can we always change $b$ to some other vector $b'$ so that $Ax = b'$ is consistent?
+\vfill
+\part
+If so, how can we find the vector $b'$ which is as close as possible to $b$ so that $Ax = b'$ has a solution?
+\end{parts}
+
+
+
+\vfill
+\question
+Consider the vectors $v_1 = (3, 1, 0, 0), v_2 = (1, 2, 1, 1), v_3 = (2, 2, 0, 1)$. Let $V \subset \mathbb R^4$ be the span of these vectors. Check to see whether of not $(1, 0, 0, 0)$ is in $V$. 
+
+\noindent
+\textit{hint: use the determinant and the various computational shortcuts we have seen!}
+
+\vfill
+\newpage
+
+\question (this was rewritten!)
+Suppose $T$ is a linear transformation from $\mathbb R^p$ to $\mathbb R^n$ given by a matrix $A$, and $S$ is a linear transformation from $\mathbb R^n$ to $\mathbb R^q$ given by a matrix $B$. Let $a \in \mathbb R^n$. How might you solve for a vector $y$ of the form $Ax + a$ so that $By$ is as small as possible?
+
+\vfill
+
+\question (this was rewritten!)
+Suppose $T$ is a linear transformation from $\mathbb R^p$ to $\mathbb R^n$ given by a matrix $A$, and $S$ is a linear transformation from $\mathbb R^q$ to $\mathbb R^n$ given by a matrix $B$. Let $b \in \mathbb R^n$ be a vector. How might you solve for a vector $y$ of the form $Ax$ so that $By$ is as close as possible to $b$?
+\vfill
+
+\question
+Consider the vectors $(1, 2, 0) $ and $(1, 1, 1)$ in $\mathbb R^3$ and let $V \subseteq \mathbb R^3$ denote their span. 
+\begin{parts}
+\part find an orthonormal basis for $V$
+\part find a $3 \times 3$ matrix representing the projection onto $V$.   
+\end{parts}
+
+\vfill
+\question
+Suppose $W$ and $V$ are vector spaces, and $T: V \to W$ is a linear transformation. Suppose that $T$ is injective.
+
+\bigskip
+\begin{parts}
+\vfill
+\part
+ Show that if $W$ has an inner product $\langle\ ,\  \rangle$ then we may define an inner product on $V$ by defining, for $v_1, v_2 \in V$, $\langle v_1, v_2 \rangle = \langle T(v_1), T(v_2)\rangle$. 
+\vfill
+\part
+Show that if $T$ is not injective, this will not give an inner product.  
+\end{parts}
+
+\vfill
+\end{questions}
+
+\end{document}
